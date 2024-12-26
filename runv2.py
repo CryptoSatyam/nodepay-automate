@@ -20,7 +20,7 @@ def show_warning():
  /    / _ \/ _  / -_) ___/ _ `/ // / / __ / // / __/ _ \/  ' \/ _ `/ __/ -_)
 /_/|_/\___/\_,_/\__/_/   \_,_/\_, / /_/ |_\_,_/\__/\___/_/_/_/\_,_/\__/\__/ 
                              /___/                                          
-          Nodepay Automining bot by Satyam Join Telegram - @CryptoSatyam1 \n""")
+          Nodepay Automining bot by Satyam Join Telegram - @CryptoSatyam1\n""")
     try:
         confirm = input(Fore.LIGHTRED_EX + "Bhai log apne risk pr isko use karo! support CRYPTO SATYAM  \n" + 
                        Fore.LIGHTYELLOW_EX + "Press Enter to continue or Ctrl+C to cancel... ")
