@@ -22,7 +22,7 @@ def show_warning():
                              /___/                                          
           Nodepay Autofarmer by Satyam Join Telegram - @CryptoSatyam1\n""")
     try:
-        confirm = input(Fore.LIGHTRED_EX + "Bhai log apne risk pr isko use karo ok \n" + 
+        confirm = input(Fore.LIGHTRED_EX + "Bhai log apne risk pr isko use karo ok! PLEASE SUPPORT [ CRYPTO SATYAM ]  \n" + 
                        Fore.LIGHTYELLOW_EX + "Press Enter to continue or Ctrl+C to cancel... ")
         if confirm.strip() == "":
             print(Fore.LIGHTGREEN_EX + "Continuing...")
